@@ -1,5 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+.git/lfs/objects/06/df/06df84321b78a3ebf38cdc3a76ff6160b61b005df8cd9eaadf9d689e212bd7df filter=lfs diff=lfs merge=lfs -text
 .git/objects/ec/5a54661d002d3f97cbf70f793d47f5cebb1674 filter=lfs diff=lfs merge=lfs -text
 trained_chatbot_model/model.safetensors filter=lfs diff=lfs merge=lfs -text
 *.md filter=lfs diff=lfs merge=lfs -text
