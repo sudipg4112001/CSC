@@ -36,7 +36,7 @@ def generate_response(customer_input):
 
 # Interactive chat session
 def chat():
-    print("Start chatting with your Electricity and Gas Bill Chatbot! (Type 'exit' to stop)")
+    print("Electricity and Gas Bill Chatbot! (Type 'exit' to stop)")
     while True:
         customer_input = input("You: ")
         if customer_input.lower() == "exit":
