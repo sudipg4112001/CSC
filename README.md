@@ -17,9 +17,9 @@ The dataset used for training the chatbot is stored in `customer_service_data.tx
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sudipg4112001/CSC.git
+   git clone https://github.com/sudipg4112001/Customer-Query-Chatbot.git
 
-2. **Navigate into the project directory:** `cd CSC`
+2. **Navigate into the project directory:** `cd Customer-Query-Chatbot`
 
 3. **Install dependencies:** `pip install -r requirements.txt`
 4. The dataset used for training the chatbot is initially stored in `customer_service_data.txt`. This file is converted from text to JSON format using the data.py script. To execute this conversion, run:
@@ -38,9 +38,9 @@ The dataset used for training the chatbot is stored in `customer_service_data.tx
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sudipg4112001/CSC.git
+   git clone https://github.com/sudipg4112001/Customer-Query-Chatbot.git
 
-2. **Navigate into the project directory:** `cd CSC`
+2. **Navigate into the project directory:** `cd Customer-Query-Chatbot`
 
 3. **Install dependencies:** `pip install -r requirements.txt`
 4. **To interact with chatbot, using the already trained model:** `python chat.py`
