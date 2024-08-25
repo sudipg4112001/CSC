@@ -1,0 +1,246 @@
+Customer: My electricity bill seems too high this month. Can you explain why?
+Agent: There are several reasons why your bill might be higher than usual. Common factors include increased energy consumption, especially during peak hours, changes in energy rates, or seasonal variations in usage. New appliances or increased household activity could also contribute. For a detailed breakdown of your usage, please check your account dashboard online or through our mobile app.
+
+Customer: How can I submit a meter reading?
+Agent: To submit your meter reading, log in to your account on our website or mobile app. Navigate to the 'Submit Meter Reading' section and follow the instructions provided. If you encounter issues, you can also contact our customer service team for assistance.
+
+Customer: Is there any way to lower my electricity bill?
+Agent: Yes, you can lower your electricity bill by:
+   - Upgrading to energy-efficient appliances
+   - Using a programmable thermostat to manage heating and cooling
+   - Turning off lights and unplugging electronics when not in use
+   - Improving home insulation to reduce energy loss
+   - Monitoring and avoiding peak usage hours
+
+Customer: What should I do if I forget my account password?
+Agent: If you forget your password, go to the login page and click on 'Forgot Password.' Follow the instructions to reset your password. If you need further assistance, our customer support team is available to help.
+
+Customer: How do I report a power outage?
+Agent: To report a power outage, use our website or mobile app, or call our customer service hotline. Provide your account number and the address of the outage for quicker service. For urgent issues, use our emergency hotline available 24/7.
+
+Customer: Can I change my tariff plan?
+Agent: Yes, you can change your tariff plan. Log in to your account, go to 'Change Tariff Plan,' and review available options. Alternatively, contact our customer service for assistance in finding the best plan for your needs.
+
+Customer: How long does it take to switch energy suppliers?
+Agent: Switching energy suppliers typically takes 2-3 weeks. There will be no interruption to your service during this period. We will notify you once the switch is complete. For updates or concerns, contact us anytime.
+
+Customer: What is the procedure for moving house?
+Agent: If you’re moving, inform us at least two weeks before your move date. You can do this online, via our mobile app, or by contacting customer service. We will arrange a final meter reading at your old address and set up your account at your new address. Provide your new address and move-in date for a smooth transition.
+
+Customer: How can I reduce my gas consumption?
+Agent: To reduce gas consumption, you can:
+   - Upgrade to an efficient heating system
+   - Ensure proper home insulation
+   - Use a programmable thermostat to control heating
+   - Seal leaks in windows and doors
+   - Maintain your gas appliances regularly
+
+Customer: Why was my last bill estimated?
+Agent: Your bill may have been estimated if we couldn’t access your meter or didn’t receive a meter reading in time. To avoid estimated bills, regularly submit your meter readings. If you think the estimate was incorrect, contact our billing department for a review.
+
+Customer: Can I set up a direct debit to pay my bills?
+Agent: Yes, you can set up a direct debit for bill payments through your online account under 'Payment Options,' or by contacting our customer service team. Direct debit ensures automatic payment each month, helping you avoid missed payments and potential late fees.
+
+Customer: How do I apply for a refund if I've been overcharged?
+Agent: If you believe you’ve been overcharged, contact our billing department with details of the overcharge. We will review your account and, if necessary, process a refund to your payment method. Please have your account details ready for a quicker resolution.
+
+Customer: What happens if I miss a payment?
+Agent: If you miss a payment, we will send you a reminder notice. You can make the payment online, through our app, or using other accepted methods. Repeated missed payments may lead to additional charges or service disconnection. Contact us if you’re having trouble making a payment to discuss possible arrangements.
+
+Customer: How can I find out about any planned maintenance in my area?
+Agent: Planned maintenance schedules are available on our website under the 'Outages' section. You can also sign up for email or SMS notifications to receive updates about any planned maintenance or service interruptions in your area.
+
+Customer: What should I do if I smell gas?
+Agent: If you smell gas, leave the area immediately and call our emergency hotline. Avoid using electrical appliances or lighting any flames. Once in a safe location, our emergency team will be dispatched to address the issue. Always have the emergency number readily available for safety.
+
+Customer: Will I be required to pay my bill all at once when I receive it?
+Agent: We are committed to working with you to provide a reasonable time to pay your balance. If you need help paying your bill, please visit Find help to pay your bill or save energy or call us at 1-800-743-5000 to spread your payments over time or apply for financial assistance.
+
+Customer: Will my credit be affected if my PG&E service is shut off?
+Agent: No, as long as you do not cancel your account, your credit will not be affected by a shut off. Active accounts are not referred to a collection agency. As long as your residential account remains active, any late payments will not be referred to a collection agency. However, a reconnection fee and deposit may be required to restore services.
+
+Customer: Why is my gas bill so high?
+Agent: Higher natural gas prices and increased energy use during colder months can lead to higher bills. Natural gas market prices have increased nationwide. In addition to these higher prices, lower temperatures have caused California to use about 26% more natural gas than the five-year November historical average. An average PG&E gas and electric customer can expect to see an increase of about 18% this winter over last. We’re taking a number of actions to reduce the impact of market conditions on our customers. Visit PG&E Currents to learn more about how PG&E can help you manage your energy use and costs. Get tips and tools to reduce usage and save money this winter. We offer financial assistance programs to help customers pay bills. Visit Ways to Save This Winter to find help managing your gas bill. Your gas bill will fluctuate depending on natural gas prices and increased energy use, but may also change due to the season, a change in lifestyle, or the addition of family members. Some commonly used appliances that consume natural gas are: Clothes Dryers, Water Heaters, Furnace (heating). These appliances usually do not consume an abundance of gas usage throughout the summer months, but usage typically increases during winter or cooler months and may cause an increase in your bill. To understand your usage and learn how to save on your energy bill:
+   - Sign in to Your Account
+   - Select the link for My Usage
+   - Select 'Compare my bills' for a quick analysis
+   - Select 'My Usage Details' to analyze your usage by month and day, and learn how weather affects your usage.
+
+Customer: Why is my bill so much higher this month over last month?
+Agent: If this month is May or November, you will notice a difference in your bill from the previous month (April or October) because of the California Climate Credit. This credit is applied twice a year, in April and October. Many customers believe their lower bill is a result of the weather changing during these months, and in part it is, but this credit can be up to $80 if you receive both gas and electric service from PG&E and so significantly reduces your bill. For more information on the California Climate Credit, visit us online.
+
+Customer: When will I receive my delayed bill?
+Agent: Most bill delays are due to system updates, which may take some time. As a result, we do not currently have an estimated date for when your bill will be ready. Once those system updates are complete, we will send your bill to you. We are committed to working with you to provide a reasonable time to pay your balance. If you need help paying your bill, please visit Find help to pay your bill or save energy or call us at 1-800-743-5000 to spread your payments over time or apply for financial assistance.
+
+Customer: Where can I find and/or download a copy of my old bills?
+Agent: You can access up to 24 months of bill and payment history by logging into Your Account. After signing in, click on 'Bill and Payment History.' Scroll to the desired bill and click 'Download PDF.'
+
+Customer: Where can I find my Detail of Bill Statements?
+Agent: You can download Detail of Bill Statements by logging into Your Account. If you have never registered your account, please register Your Account Online. Once logged in:
+   - Click on the dropdown arrow next to your account number at the upper left corner
+   - Click on 'MY ACCOUNT & SERVICES'
+   - Scroll down to the 'Gas and electric service information' section to locate your service agreement ID(s)
+   - Click on the Service Agreement ID# you would like to view
+   - You will be directed to the 'SERVICE DETAILS' page
+   - Scroll to the bottom of the page to 'DOWNLOAD DETAIL OF BILL'
+   - Click on 'SELECT BILL DATE' to display available Detail of Bill Statements to download
+   - Click on the desired Detail of Bill Statement to download it as a PDF
+
+Customer: Where can I see copies of bill inserts?
+Agent: To see copies of bill inserts, sign in to Your Account. Under 'View & Pay,' select the link for 'View Bill Inserts.' Alternatively, view our Bill Inserts page to view standard bill inserts. Note: Your particular bill inserts may be different from the standard inserts based on your individual situation.
+
+Customer: Why am I being charged a delivery charge?
+Agent: The delivery portion of your electric and gas bill covers the cost of getting the applicable services to you. For electric service, this includes the building and maintaining power lines, meters, billing systems, etc., that get the electricity from where it is generated to your home or business. Similarly, for gas, this includes the building and maintenance of the pipelines, meters, and billing systems used to get gas to your home. If you see a separate line item on page one of your bill for delivery, it is likely that you have a third party providing the generation of your electricity or procurement of your gas. Although you always pay for delivery, when a third party is present, these charges are separated out.
+
+Customer: Why did I get a letter informing me I was under or over billed?
+Agent: On a rare occasion, some customers experience what is referred to as a crossed meter. This means that our billing system had two meters switched and billing was being sent to the wrong person. Because no two households have identical usage, this will result in a customer being over or under billed. The letter you received will indicate if you have been over or under billed. If you have been over billed, you will see a credit applied to your next billing cycle. These credits can go back as far as three years if the issue was in place for that long. In the case you were underbilled, you will receive an adjusted bill that is higher than you would typically expect. As a consumer protection, we will only back date billing three months. If you receive a corrected bill and you are not able to pay it in one month, you are able to set up a payment arrangement to spread out the balance. For guidance on setting up a payment arrangement online, follow our guide in the Help Center. You can also call 1-800-743-5000 and set up an arrangement with the IVR.
+
+Customer: Why did I get another bill after I stopped service?
+Agent: If you recently stopped service but got another bill, it is likely your final bill. Final charges take approximately a week to process after the stop date requested. The detail page of your bill will reflect the date you stopped being charged for the usage. The bill due date will be three weeks after the bill processing date.
+
+Customer: Why did I receive another person's bill?
+Agent: The most common reason customers receive another person's bill is that it is the previous resident’s final bill. Not all customers provide PG&E with their forwarding mailing address, so we will send the invoice to that resident’s last known address. Like other postal mail situations, it could simply be a mistake in delivery and may belong to a neighbor or someone with a similar service address. In rare situations, some customers may not have completed their start of service when they moved to a new address, and services for the new address may still be in the previous resident’s name. If you want to confirm your service, visit us online or call 1-800-743-5000. Please do not open another customer's bill.
+
+Customer: Why did my PG&E bill change?
+Agent: Energy bills can go up or down for a variety of reasons beyond your control like the weather, state regulations, and commodity prices. You can rest assured that we do not:
+   - Control the market prices for gas and electricity.
+   - Mark up the cost of the gas and electricity that we purchase on behalf of our customers.
+   - Make more money when our customers use more gas or electricity. This is called decoupling.
+   - Encourage customers to use more energy. Our profits do not come from the energy we sell.
+
+We make a profit on:
+   - The cost of building infrastructure (like powerlines) that delivers energy
+   - How efficiently we run our business
+   - Lowering our customers' energy use
+
+There are a few things you can control that may affect your bill, such as:
+   - The amount of energy you use
+   - When you choose to use energy
+   - Your rate plan
+   - Enrolling in bill discount programs that you are eligible for
+
+Rate changes:
+   - Our gas and electric rates can change several times each year and are expected to increase overall in 2023.
+   - All changes in rates need to be approved by the California Public Utilities Commission (CPUC). The CPUC regulates utilities like PG&E.
+   - These changes include increases in the cost of purchasing gas and electricity and maintaining our pipes and wires. The money from these rate increases allows us to support critical investments and programs that:
+     - Make the electric grid and gas system safer and more reliable
+     - Reduce wildfire risk
+     - Enable energy efficiency and renewable energy
+     - Provide eligible, low-income customers with discounted energy bills
+
+Annual gas and electric rate change:
+   - Customer gas and electric rates changed on January 1, 2023, as part of an annual process called the “true-up” authorized by the California Public Utilities Commission.
+   - These rate changes include charges for:
+     - Gas and electric delivery
+     - Electricity supply
+     - State-mandated assistance programs for income-qualified customers, energy efficiency, and public-interest research and development.
+
+Customer: Why does my collections notice only show my PG&E charges, and not the charges from my CCA?
+Agent: PG&E can only disconnect for PG&E past due charges. The 48-hour collection notice will have a line item for PG&E Delivery Charges that are Past Due (red box). To avoid shut off, the amount in the red box will need to be paid by the date indicated. The minimum payment due to avoid disconnection is the amount in the red box, however, you still owe your service provider for their portion of the total balance. Your TOTAL past due amount is the PG&E Delivery Charges Past Due plus the Service Provider Charges Past Due. Visit our Pay your PG&E Statement page for ways to pay your bill and avoid shut off.
+
+Customer: Why does the California Climate credit show up as a previous unpaid balance on my bill?
+Agent: The California Climate Credit may appear as an unpaid balance on your account in the days between when the credit is applied and when your April or October bill is generated. No action is necessary, and you should see resolution when you receive your April or October statement. Visit our California Climate Credit page for more information.
+
+Customer: Why haven't I received a bill?
+Agent: Although we continuously send more than 99 percent of bills out on time, delays can occur due to a technical issue or an update to certain systems. In these cases, your bill will be delayed. When this happens, PG&E works to identify the cause of the delay, resolve the problem, and then send out your bill. NOTE: If you have not received your paper bill at a time you normally receive it, you may be enrolled in our paperless billing option. To view your bill, log into Your Account and select the View Current Bill link. If your bill is not available online and you have not received it in the mail, you do not need to take any action at this time and we will not interrupt your service while we address the cause of the delay. For more information about our bill assistance programs, visit Find help to pay your bill or save energy or call 1-800-743-5000 to spread your payments over time or apply for financial assistance.
+
+Customer: Why is my bill so high?
+Agent: In some instances, customers may experience what is called a delayed bill. A delayed bill may be only for a portion of your charges, so you may not have noticed you were not being charged for all of your usage. An example of this is a third-party company not submitting their charges to PG&E. PG&E will still send out a bill for our portion of your charges but when the third party catches up, you will have multiple months of their charges you need to pay. A similar issue can occur with one commodity. For instance, we continue to charge electric usage but there is a delay in your gas charges. If the error is PG&E's fault, when we resume billing for our residential customers, we will only back-bill for up to three months plus current charges. We do not include late charges or interest. We are committed to working with you to provide a reasonable time to pay your balance. If you need help paying your bill, please visit Find help to pay your bill or save energy or call us at 1-800-743-5000 to spread your payments over time or apply for financial assistance.
+
+Customer: What steps do I need to take to file a claim if my house was destroyed by the Dixie Fire?
+Agent: For homes destroyed by the Dixie fire, PG&E’s Direct Payments for Community Recovery (DP4CR) Program is designed to easily and quickly compensate individuals whose homes, including mobile homes, and rental homes, were destroyed by wildfire. Steps to submit a claim and the required documentation can be found on the Direct Payments for Community Recovery webpage (www.DP4CR.com). Individuals whose homes were destroyed by the fire may begin submitting claims at the program website beginning on May 2, 2022. Summary of the Process: 1. Prepare to make your claim: check your eligibility, identify your co-claimants (or all members of your household), and gather documentation such as proof of identity and square footage of your home. 2. Submit an electronic claim form with supporting documentation via this website. 3. We review your claim to confirm your eligibility and identity; the details of your property including square footage and acreage; and your insurance coverage. We use this information to make you a settlement offer based on a standardized and objective valuation framework. 4. Once you accept the offer and all co-claimants sign a settlement agreement releasing all of your claims related to the fire, we quickly pay you the full amount of our offer. Get started at www.DP4CR.com, and check the page for the latest updates. If you have any additional questions, please call 1-800-743-5000.
+
+Customer: What is an estimated bill?
+Agent: An estimated bill is a bill that PG&E has created based on estimated usage and not your actual usage. The bill can be estimated for various reasons, for example: 1. Your meter could not be communicating 2. There could be access issues preventing us from reading the meter 3. You may have an analog meter read every other month. PG&E uses the following information to provide the most accurate estimate for your bill: 1. Your usage from the same time period within the last 12 months and/or available historical meter readings for the address. 2. If you are part of any discount programs such as CARE, FERA, or Medical Baseline you will still get your discount applied to the estimated bill. If your bill is estimated, keep payments on schedule to avoid a future large bill covering several months. If the estimated amount is higher than your actual usage, you will receive an adjustment on the amount overpaid as a credit, and it will go toward your next bill(s). If the amount estimated is lower than your usage, any additional amount owed will appear on your adjusted statement. If you are unable to pay your estimated bill, you have options: 1. You can check to see if you are eligible for a payment arrangement or extension. This can be done online by signing into Your Account. If you don't have an online account, you can create one. 2. You can also make a partial payment of the balance until you receive the adjusted bill.
+
+Customer: What is PG&E doing to make rates and bills more affordable?
+Agent: PG&E is implementing several initiatives to make rates and bills more affordable: 1. Cutting costs and improving operational efficiencies. 2. Working to keep future bill impacts at or below assumed inflation (2 to 4 percent). 3. Generating more than $970 million by selling licensing agreements to wireless providers to attach equipment to transmission towers. 4. Moving powerlines underground to reduce recurring maintenance costs. 5. Pursuing federal funding to offset costs of making the energy system safer and more climate resilient. 6. Saving $4.9 billion by streamlining how we plan our work and resources and renegotiating older contracts. PG&E also offers resources, tools, and rebates to help you manage your energy use and costs. We provide rate plan choices, payment options, energy efficiency financing, and energy management tools. If you are having difficulty paying your bill, we offer financial assistance programs: 1. Relief for Energy Assistance through Community Help (REACH): Offers one-time energy credit financial assistance to qualified customers with past due bills. 2. Low-Income Home Energy Assistance Program (LIHEAP): Offers up to $1,000 to pay eligible household energy costs. 3. Arrearage Management Program (AMP): Offers up to $8,000 in unpaid balance forgiveness, if a customer is enrolled in the California Alternate Rates for Energy (CARE) program or Family Electric Rate Assistance (FERA) program, owes a specific bill amount, and is more than 90 days past due. Additionally, PG&E has given credits totaling $548 million to 654,000 customers from the state’s California Arrearage Payment Program, helping to lower past-due balances as a result of the COVID-19 pandemic. Nearly $175 million of consumer debt from past due bills has also been forgiven, allowing customers a fresh start after hard times. PG&E is also working with partners to find ways to lower energy costs, such as requesting federal funds to help with the costs of making infrastructure more climate resilient and advocating with regulators and state lawmakers to make energy bills more predictable, simplified, and affordable.
+
+Customer: What can I do if I can't pay my estimated bill?
+Agent: If you are unable to pay your estimated bill, you have options. PG&E offers several programs to help pay your energy bill: 1. Payment Arrangements: You can break up your balance into manageable payments in amounts and dates that fit your financial situation. Sign into Your Account and scroll down to Payment Options. Select Payment Arrangement and then Installments. Installments allow you to spread your current balance over several months for up to 12 installments. Choose the option that works best for you. You must have your name on the account to request a payment arrangement. 2. Extended Due Date: Lets you pay the full amount of your current balance within the next 30 days. Sign into Your Account and scroll down to Payment Options. Select Payment Arrangement and then Extension. Simply input the date on which you want to pay the full amount. You must have your name on the account to request an extended due date. 3. Relief for Energy Assistance through Community Help (REACH): The REACH program helps low-income-qualified customers who experience uncontrollable or unforeseen financial hardships. For complete program details, visit REACH. You must live at the property to qualify for REACH. 4. Low-Income Home Energy Assistance Program (LIHEAP): This federally funded program provides financial assistance to help offset eligible household energy costs, including heating, cooling, and home weatherization expenses. For more information, visit LIHEAP. You must live at the property to qualify for LIHEAP. If your name is not on the PG&E account for which you are requesting financial assistance, please call us at 1-800-743-5000 to be added.
+
+Customer: What do I do if I receive another person's bill?
+Agent: If you have received another customer’s bill via postal mail, please write 'NOT AT THIS ADDRESS' on the front of the envelope and place it in your outbound mail. If you have received another customer’s bill via email, please call 1-800-743-5000 to report it and forward the email to PGEPrivacy@pge.com. Customer Privacy is an obligation we take seriously. Visit www.pge.com/privacy to view our privacy policy.
+
+Customer: What does PG&E do to reach out to customers before disconnecting (shutting off) service?
+Agent: We understand these are difficult financial times, and we urge our customers to call us or use our online programs as soon as they know they will have trouble paying their bill. Disconnection of service is an action that PG&E does not take lightly. It is a last resort taken after more than a 60-day process involving many attempts to work with customers to resolve their bills.
+
+Customer: My refund check is dated over 90 days, what do I do?
+Agent: If your refund check is dated over 90 days, or if you have lost your refund check, please contact our Customer Service Department and one of our Customer Service Representatives will assist in requesting a replacement. Residential Customer Service Department: 1-800-743-5000, Monday – Friday, 7 a.m. – 7 p.m. and Saturday, 8 a.m. – 5 p.m. Business Customer Service Department: 1-800-468-4743, Monday – Friday, 7 a.m. – 6 p.m. If you have a refund check that is over 3 years old you will need to inquire on unclaimed property by calling 1-800-992-4647 or for outside CA 916-323-2827 OR visiting the State's web site at http://www.sco.ca.gov/.
+
+Customer: I am a sub-metered tenant and I think my landlord is not billing me correctly. Who do I call?
+Agent: If you are a sub-metered customer (master-meter) and you have a complaint or question on how your property owner or manager is billing you, we recommend you first work with your property owner/manager to resolve your questions and/or concerns. If you are still unsatisfied after speaking to your property owner or manager, please visit the California Public Utilities Commission (CPUC) Consumer Affairs Branch page.
+
+Customer: I am a sub-metered tenant; how do I find out how my bill is calculated?
+Agent: Please work with your property manager or property owner to understand how you are being billed. If you need additional information, you can review our tariffs related to Mobile Home Park service. Visit Electric Mobile Home Tariff page. Visit Gas Mobile Home Tariff page.
+
+Customer: I have not received my bill yet. Where is it?
+Agent: Bill delays can be a result of a variety of situations including delays with the postal service. We recommend creating an online account so you can see your bills as soon as they are ready to view. You can sign up for an online account by visiting our Manage Your Account Online page. If you have not received your paper bill at a time you normally receive it, you may be enrolled in our paperless billing option. To view your bill, log into Your Account and select the View Current Bill link. To unenroll from paperless billing, while logged into Your Account: Click the Edit Profile & Alerts box in the top right. Scroll down to the bottom of the screen and click on the alert that says Go Paperless. Here you can turn on or off the option for paperless billing. Other reasons for a delayed bill statement could be due to a recent rate plan change, solar system or battery storage system being approved, or a network connection failure. If your bill is not available online and you have not received it in the mail, call our Customer Service Department at 1-800-743-5000 and a Customer Service Representative can research the likely reason for the delay.
+
+Customer: I just moved into a new home. Can I get an average bill cost?
+Agent: For privacy reasons, PG&E does not provide average bill costs. You can monitor your usage online by logging in to Your Account on PGE.com. For more information on setting up energy alerts and understanding your usage, visit Energy Usage Details.
+
+Customer: I share an apartment, how can I make my roommate pay?
+Agent: We want to help you and your roommate(s) manage your PG&E account. We recommend each roommate’s name be added to the account to be financially responsible, so that everyone is obligated to pay the bill on time and is aware of any balance owed and the amount of energy used. If you'd like to add your roommate(s) to your account, please call our Customer Service Department at 1-800-743-5000. Monday-Friday, 7 a.m. - 7 p.m. or Saturday, 8 a.m. - 5 p.m. Both parties need to be on the phone call to complete this transaction. Two or more adults who occupy the same premises are jointly liable for all bills for energy supplied, per Applications Section B of Rule 3 of our Electric Tariffs. Visit Roommate Solutions for more tips and information.
+
+Customer: How do you estimate my bill?
+Agent: PG&E uses the following information to provide the most accurate estimate: Based on your usage from the same time period within the last 12 months and/or available historical meter readings for the address. If you are part of any discount programs such as CARE, FERA, or Medical Baseline you will still get your discount applied to the estimated bill. If your bill is estimated, keep payments on schedule to avoid a future large bill covering several months. If the estimated amount is higher than your actual usage, you will receive an adjustment on the amount overpaid as a credit, and it will go toward your next bill(s). If the amount estimated is lower than your usage, any additional amount owed will appear on your adjusted statement.
+
+Customer: How does electricity usage translate to bill charges?
+Agent: The easiest way to understand the connection between usage and charges is to view the fluctuation in a bar graph format. You can see how your electricity usage translates to bill charges by logging into Your Account and click on Energy Usage Details. In the Energy Usage Details, click on Energy Costs. Hover over one of the blue bars within the graph to see the energy use and cost for that designated time period. Change the bill view drop down in the center of the page to get a Year View (month by month), Bill View or Day View. You can also change the graph to display your usage and/or charges for electricity and natural gas usage separately or combined the two. The average temperature in your area will appear on the graph relation to your usage.
+
+Customer: How long is my refund check valid?
+Agent: Refund checks are valid for 90 days from the issue date. If your refund check is dated over 90 days, or if you have lost your refund check, please contact our Customer Service Department and one of our Customer Service Representatives will assist in requesting a replacement. Residential Customer Service Department: 1-800-743-5000, Monday – Friday, 7 a.m. – 7 p.m. and Saturday, 8 a.m. – 5 p.m. Business Customer Service Department: 1-800-468-4743, Monday – Friday, 7 a.m. – 6 p.m. If you have a refund check that is over 3 years old you will need to inquire on unclaimed property by calling 1-800-992-4647 or for outside CA 916-323-2827 OR visiting the State's web site at http://www.sco.ca.gov/.
+
+Customer: How much will I be reimbursed for my property damaged by the Dixie Fire?
+Agent: The Direct Payments for Community Recovery (DP4CR) program makes offers based on an objective framework based on square footage, acreage, and available insurance. The amounts for your offer are based on the destroyed property and your relationship to the property. Offer figures can be viewed at the DP4CR program site at www.DP4CR.com. We make offers and require supporting documentation based on your relationship to the property. We will only make one offer per destroyed property, unless the property was rented, in which case PG&E will make one offer to the owners and one offer to the non-owner residents. At this time, the DC4PR program is only open to individuals whose homes were destroyed in the Dixie Fire. Individuals with partial damages, and businesses, are not eligible for the DP4CR program, but can still file a claim through Understanding PG&E claims policy and process. The goal of the DP4CR program is to pay claimants within 75 days of submitting a complete claim and 30 days after they accept an offer. Anyone whose home was destroyed by the Dixie Fire may submit a claim through the program. Settlements reached through the DP4CR program will resolve all claims arising from the Dixie Fire, including any previously filed PG&E claims and lawsuits. You may submit a single claim for any property with a home destroyed by the fire, whether you owned or lived in, i.e., rented, that home. If a single property, as defined by Assessor’s Parcel Number, or APN, has multiple structures, you should submit only one claim for all structures on that property. If you have any additional questions, please call 1-800-743-5000."
+
+Customer: How do I dispute my bill?
+Agent: If you feel you have been billed in error, or you would like to discuss your bill in detail, please contact our Customer Service team at 1-800-743-5000, Monday through Friday 7:00 am through 7:00 pm and Saturday 8:00 am through 5:00 pm. One of our Customer Service Representatives will review your bill and help to answer your questions and/or concerns. You can find answers to many common billing inquiries at Understand Your Bill.
+
+Customer: How do I file a claim with PG&E?
+Agent: If you believe PG&E should pay for a loss you have experienced, PG&E provides two paths for compensation:
+If you are a residential customer who has gone without power for at least 48 hours because of severe storm conditions, you may qualify for an automatic payment under our Safety Net program. This program provides a payment of $25 - $100, which we pay automatically approximately 60 days after the storm outage. Do not file a claim for these payments: PG&E will calculate them automatically.
+Learn more about compensation for extended outages.
+For other losses, you can file a claim with PG&E.
+Covered losses due to PG&E actions include:
+For property damage.
+For personal injury.
+For lost wages. (NOTE: You cannot receive compensation for the time spent pursuing your claim)
+For miscellaneous losses.
+For food spoilage.
+Filing your claim online will speed processing and settlement.
+
+Customer: How can I see bill inserts if I receive paperless bills?
+Agent: If you receive paperless bills and would like to view the bill inserts, you can access current and past inserts online. Residential customers can view current and past bill inserts by visiting our Bill Inserts page. Business customers can view current and past bill inserts by visiting our PG&E Business Bill Inserts page.
+
+Customer: How do I set up bill forecast alerts?
+Agent: A bill forecast alert will send you an alert if your monthly bill is projected to be higher than a pre-set dollar amount based on your usage. To set up a bill forecast alert, follow the steps below:
+Log in to Your Account.
+Click Edit Profile & Alerts.
+Scroll to Alert Settings.
+Select the Energy Use option.
+Click the Set your Bill Forecast Alert button.
+Select YES to turn on alerts.
+Select Save Changes at the bottom of the screen.
+
+Customer: Do I still get my discounts when my bills are estimated?
+Agent: If you are part of any discount programs such as CARE, FERA, or Medical Baseline, you will still get your discount applied to the estimated bill. If an adjustment is required to your billing when the estimated bills are corrected, any discounts you receive will also be corrected.
+
+Customer: Do I need to pay my bill if it is estimated?
+Agent: Yes, you still need to pay your bill if it is estimated. The estimated bill is designed to keep payments on schedule to avoid a future larger bill that covers multiple months, which may be more difficult to pay and may lead to service interruption. If the estimated amount is higher than your actual usage, you will receive an adjustment on the amount overpaid as a credit, and it will go toward your next bill(s). If the amount estimated is lower than your usage, any additional amount owed will appear on your adjusted statement. If you are unable to pay your estimated bill, you have options. You can check and see if you are eligible for a payment arrangement or extension. This can be done online by signing into Your Account. If you don't have an online account, you can create one. You can also make a partial payment of the balance until you receive the adjusted bill.
+
+Customer: Can I submit a claim for the Dixie Fire impacts to my property?
+Agent: Yes, if your home has been destroyed by the Dixie Fire and you would like to submit a claim, please visit our Direct Payments for Community Recovery website (www.DP4CR.com). Beginning May 2, 2022, the program gives eligible claimants a settlement offer based on a standardized and objective framework and is intended to expedite payment to impacted individuals.
+With an easy-to-use website, individuals who lost their home in the fire can submit a claim form and supporting documents, and if they accept PG&E's settlement offer, they will receive an expedited payment. Our goal is to resolve claims within 75 days from the time individuals submit a complete claim.
+To learn more, visit our Direct Payments for Community Recovery website (www.DP4CR.com). The DP4CR program is funded and operated by PG&E, and you can access the program website through Understanding PG&E claims policy and process. If you have any questions, please call 1-800-743-5000.
+
+Customer: Am I paying more if my bill is estimated?
+Agent: If your billing is estimated, PG&E works hard to estimate your usage as accurately as possible. PG&E bases the estimated bills on your energy usage for the same period within the last 12 months. If your energy usage from the same period last year is higher than your usage this year, then the estimated amount could be higher. If your usage from last year is lower, then the estimated amount could be lower. If your bill is estimated, keep payments on schedule to avoid a future large bill covering several months. If the estimated amount is higher than your actual usage, you will receive an adjustment on the amount overpaid as a credit, and it will go toward your next bill(s). If the amount estimated is lower than your usage, any additional amount owed will appear on your adjusted statement.
+
+Customer: Can I cancel my service with a CTA?
+Agent: If you wish to resume bundled services with PG&E, you should first contact the Core Transport Agent (CTA) to terminate services with them. PG&E is unable to cancel a contract or guarantee that the CTA will cancel. Check your bill for the correct contact information for your CTA. Once the CTA cancels your contract, you will automatically come back to PG&E as a bundled customer; no further action is required.
+If you have reached out to your CTA and are unsatisfied with the CTA's resolution:
+Contact the Consumer Affairs Branch of the California Public Utilities Commission (CPUC): 1-800-649-7570
+Log a complaint online with the CPUC at: http://www.cpuc.ca.gov/complaints/
+Visit our Core Gas Aggregation Program page for more answers to your Core Transport Agent (CTA) questions.
