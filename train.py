@@ -5,7 +5,7 @@ from datasets import Dataset
 
 # Check if GPU is available and set the device
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-print(f"Using device: {device}")  # This will print whether GPU or CPU is being used
+print(f"Using device: {device}")  # GPU or CPU 
 
 # Load the dataset
 with open('chat_data.json', 'r') as f:
@@ -16,9 +16,9 @@ train_data = [f"Customer: {item['Customer']}\nAgent: {item['Agent']}" for item i
 
 # Initialize tokenizer and model for GPT-2
 tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
-tokenizer.pad_token = tokenizer.eos_token  # Set the pad token to eos token to avoid errors
+tokenizer.pad_token = tokenizer.eos_token  # Set the pad token to eos token 
 
-model = GPT2LMHeadModel.from_pretrained("gpt2").to(device)  # Move the model to GPU
+model = GPT2LMHeadModel.from_pretrained("gpt2").to(device)  
 
 # Tokenize the dataset with dynamic padding and truncation
 train_encodings = tokenizer(train_data, padding=True, truncation=True, return_tensors="pt")
@@ -61,7 +61,7 @@ training_args = TrainingArguments(
 # Initialize data collator for dynamic padding
 data_collator = DataCollatorForLanguageModeling(
     tokenizer=tokenizer,
-    mlm=False,  # This is not a masked language modeling task
+    mlm=False,  
 )
 
 # Initialize the Trainer with GPT-2 and early stopping callback
